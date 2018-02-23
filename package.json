@@ -1,0 +1,16 @@
+{
+  "name": "digital_gold",
+  "version": "1.0.0",
+  "description": "Gdax api -- trader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinayak",
+  "license": "ISC",
+  "dependencies": {
+    "gdax": "^0.6.0",
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
